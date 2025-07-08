@@ -32,7 +32,7 @@ select = "y"
 while select != "n":
     print("+\n-\n*\n/\n")
     operator = input("what is your opperator")
-    number_2 = float(input("what is your second number : "))
+    number_2 = int(input("what is your second number : "))
     if operator == "+":
         result = add(number_1, number_2)
     elif operator == "-":
