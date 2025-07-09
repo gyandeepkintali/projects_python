@@ -1,5 +1,4 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 
 print("welcome to treasure island")
 
